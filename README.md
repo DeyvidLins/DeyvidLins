@@ -17,9 +17,17 @@ Graduado em Análise e desenvolvimento de sistemas e cursando pós graduação e
  - html/CSS/JavaScript
 
  - SQL Server/MySQL
-
   
  - Básico em Google Cloud    Platform (GCP)
+
+ - Básico em Ferramentas de CI/CD (Jenkins, Sonarqube e Nexus)
+
+ - Containers (Docker e Kubernetes)
+
+ - Salesforce
+
+
+ 
 
 ![java (2)](https://user-images.githubusercontent.com/54068775/132279900-2b7fcbe0-3db4-4d90-b2b2-dde701617f40.png)
 ![html](https://user-images.githubusercontent.com/54068775/132280295-f751f468-0567-4952-8e19-a6c703381f85.png)
@@ -28,6 +36,8 @@ Graduado em Análise e desenvolvimento de sistemas e cursando pós graduação e
 ![python](https://user-images.githubusercontent.com/54068775/132280722-d724fabe-1097-44f6-af83-2fd1b7ab2c34.png)
 ![servidor-sql](https://user-images.githubusercontent.com/54068775/132280725-d4d47020-34fa-4635-96d9-f2c7a394c3ab.png)
 ![nuvem-google](https://user-images.githubusercontent.com/54068775/132280958-72efd8d5-baff-431c-9cd4-f485e585c4e1.png)
+![docker](https://user-images.githubusercontent.com/54068775/132364334-acac2724-7cc5-4295-8bcc-5ec216a7106b.png)
+
 
 
 

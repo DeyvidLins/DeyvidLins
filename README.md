@@ -22,5 +22,5 @@ Graduado em Análise e desenvolvimento de sistemas e cursando pós graduação e
   
  - Básico em Google Cloud    Platform (GCP)
 
+![java (1)](https://user-images.githubusercontent.com/54068775/132279828-8a8720f5-669c-44f4-9095-d45157bb4e46.png)
 
-https://www.flaticon.com/br/icone-gratis/java_226777?term=java&page=1&position=22&page=1&position=22&related_id=226777&origin=search

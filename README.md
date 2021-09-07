@@ -1,3 +1,6 @@
+![html](https://user-images.githubusercontent.com/54068775/132280295-f751f468-0567-4952-8e19-a6c703381f85.png)
+![css-3](https://user-images.githubusercontent.com/54068775/132280305-36bd6d4b-838f-4756-a2cf-83170c6f1408.png)
+![javascript](https://user-images.githubusercontent.com/54068775/132280313-8875ace3-7241-4dd1-9d88-e0efc701d700.png)
 
 **My name is Deyvid.**
 

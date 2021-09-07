@@ -27,6 +27,7 @@ Graduado em Análise e desenvolvimento de sistemas e cursando pós graduação e
 ![javascript](https://user-images.githubusercontent.com/54068775/132280313-8875ace3-7241-4dd1-9d88-e0efc701d700.png)
 ![python](https://user-images.githubusercontent.com/54068775/132280722-d724fabe-1097-44f6-af83-2fd1b7ab2c34.png)
 ![servidor-sql](https://user-images.githubusercontent.com/54068775/132280725-d4d47020-34fa-4635-96d9-f2c7a394c3ab.png)
-![social-icon-google-cloud-1200-630](https://user-images.githubusercontent.com/54068775/132280734-044f3330-c2bc-416c-8b44-218960453a1c.png)
+![nuvem-google](https://user-images.githubusercontent.com/54068775/132280958-72efd8d5-baff-431c-9cd4-f485e585c4e1.png)
+
 
 

@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**DeyvidLins/DeyvidLins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Deyvid.
 
-Here are some ideas to get you started:
+Hi!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Graduado em Análise e desenvolvimento de sistemas e cursando pós graduação em Computing Cloud.  
+  
+Conhecimentos na área de tecnologia:  
+  
+Python - Inteligência Artificial (Chatterbot) e framework Django(Aplicação Web) .  
+Java  
+Básico em React native  
+html/CSS/JavaScript  
+SQL Server/MySQL  
+Básico em Google Cloud Platform (GCP)
+
+
+
+![java](https://user-images.githubusercontent.com/54068775/132279370-68a28c13-106d-473d-a93e-1c1fb1db1189.png)
+

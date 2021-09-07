@@ -22,5 +22,6 @@ Graduado em Análise e desenvolvimento de sistemas e cursando pós graduação e
   
  - Básico em Google Cloud    Platform (GCP)
 
-![java (1)](https://user-images.githubusercontent.com/54068775/132279828-8a8720f5-669c-44f4-9095-d45157bb4e46.png)
+![java (2)](https://user-images.githubusercontent.com/54068775/132279900-2b7fcbe0-3db4-4d90-b2b2-dde701617f40.png)
+
 

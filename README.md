@@ -23,5 +23,4 @@ Graduado em Análise e desenvolvimento de sistemas e cursando pós graduação e
  - Básico em Google Cloud    Platform (GCP)
 
 
-<div>Ícones feitos por <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/br/" title="Flaticon">www.flaticon.com</a></div>
-
+https://www.flaticon.com/br/icone-gratis/java_226777?term=java&page=1&position=22&page=1&position=22&related_id=226777&origin=search

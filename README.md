@@ -2,7 +2,7 @@
 
 *Hi!*
 
-Graduado em Análise e desenvolvimento de sistemas e cursando pós graduação em Computing Cloud.  
+Graduado em Análise e desenvolvimento de sistemas e especialista em pós graduação em projetos Computing Cloud.  
   
 
 ## Conhecimentos na área de tecnologia:

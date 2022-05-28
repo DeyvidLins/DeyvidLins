@@ -16,7 +16,7 @@ Graduado em Análise e desenvolvimento de sistemas e especialista em pós gradua
 
 <br> <br>
 
-<div>
+<div style="display: inline_block"><br>
     <img src="linguagens/c-sharp.png"></img> 
     <img src="linguagens/css-3.png"></img>
 	<img src="linguagens/html-5.png"></img>

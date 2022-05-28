@@ -42,8 +42,6 @@ Graduado em Análise e desenvolvimento de sistemas e especialista em pós gradua
 
 <br>
 
-<br>
-
 
 
   ![Snake animation](https://github.com/DeyvidLins/DeyvidLins/blob/output/github-contribution-grid-snake.svg)

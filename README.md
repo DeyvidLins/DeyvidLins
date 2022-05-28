@@ -1,4 +1,4 @@
-Olá, Meu nome é Deyvid Lins.**
+Olá, Meu nome é Deyvid Lins.🧑‍💻**
 
 Graduado em Análise e desenvolvimento de sistemas e especialista em pós graduação em projetos Computing Cloud.  
 
@@ -12,9 +12,20 @@ Graduado em Análise e desenvolvimento de sistemas e especialista em pós gradua
 
 
 
+
+
+
+
 <div>
-    <img src="branches.png"></img>
-    <img src="coding.png"></img>
+    <img src="linguagens/c-sharp.png"></img>
+    <img src="linguagens/css-3.png"></img>
+	<img src="linguagens/html-5.png"></img>
+	<img src="linguagens/java.png"></img>
+	<img src="linguagens/js.png"></img>
+	<img src="linguagens/mysql.png"></img>
+	<img src="linguagens/python.png"></img>
+	<img src="linguagens/react.png"></img>
+	<img src="linguagens/sql-server.png"></img>
 </div>
 
 

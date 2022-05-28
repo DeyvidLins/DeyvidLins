@@ -12,43 +12,10 @@ Graduado em Análise e desenvolvimento de sistemas e especialista em pós gradua
 
 
 
-![css-3](C:\Users\Deyvid\Desktop\Nova pasta\css-3.png)
-
-![html-5](C:\Users\Deyvid\Desktop\Nova pasta\html-5.png)
-
-![java](C:\Users\Deyvid\Desktop\Nova pasta\java.png)
-
-![js](C:\Users\Deyvid\Desktop\Nova pasta\js.png)
-
-![mysql](C:\Users\Deyvid\Desktop\Nova pasta\mysql.png)
-
-![python](C:\Users\Deyvid\Desktop\Nova pasta\python.png)
-
-![react](C:\Users\Deyvid\Desktop\Nova pasta\react.png)
-
-![sql-server](C:\Users\Deyvid\Desktop\Nova pasta\sql-server.png)
-
-![c-sharp](C:\Users\Deyvid\Desktop\Nova pasta\c-sharp.png)
-
-
-
-![kubernetes](C:\Users\Deyvid\Desktop\Nova pasta\kubernetes.png)
-
-![linux](C:\Users\Deyvid\Desktop\Nova pasta\linux.png)
-
-![salesforce](C:\Users\Deyvid\Desktop\Nova pasta\salesforce.png)
-
-![branches](C:\Users\Deyvid\Desktop\Nova pasta\branches.png)
-
-![coding](C:\Users\Deyvid\Desktop\Nova pasta\coding.png)
-
-![docker](C:\Users\Deyvid\Desktop\Nova pasta\docker.png)
-
-![gitlab](C:\Users\Deyvid\Desktop\Nova pasta\gitlab.png)
-
-![google-cloud-logo-5](C:\Users\Deyvid\Desktop\Nova pasta\google-cloud-logo-5.png)
-
-![jenkins](C:\Users\Deyvid\Desktop\Nova pasta\jenkins.jpg)
+<div>
+    <img src="branches.png"></img>
+    <img src="coding.png"></img>
+</div>
 
 
 

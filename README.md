@@ -1,4 +1,4 @@
-Olá, Meu nome é Deyvid Lins.🧑‍💻**
+Olá, Meu nome é Deyvid Lins.🧑‍💻** 
 
 Graduado em Análise e desenvolvimento de sistemas e especialista em pós graduação em projetos Computing Cloud.  
 
@@ -10,7 +10,7 @@ Graduado em Análise e desenvolvimento de sistemas e especialista em pós gradua
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeyvidLins&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-
+  <img src="kakashi sensei.gif" width="180" height="180"></img>
 
 
 

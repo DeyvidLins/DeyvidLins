@@ -2,7 +2,7 @@ Olá, Meu nome é Deyvid Lins.🧑‍💻**
 
 Graduado em Análise e desenvolvimento de sistemas e especialista em pós graduação em projetos Computing Cloud.  
 
-<br> <br>
+<br> 
 
 <div align="center">
   <a href="https://github.com/DeyvidLins">

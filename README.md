@@ -26,7 +26,17 @@ Graduado em Análise e desenvolvimento de sistemas e especialista em pós gradua
 	<img src="linguagens/python.png"></img>
 	<img src="linguagens/react.png"></img>
 	<img src="linguagens/sql-server.png"></img>
+	<img src="tecnologias/coding.png"></img>
+	<img src="tecnologias/branches.png"></img>
+	<img src="tecnologias/gitlab.png"></img>
+	<img src="tecnologias/docker.png"></img>
+	<img src="tecnologias/kubernetes.png"></img>	
+	<img src="tecnologias/google-cloud-logo-5.png"></img>
+	<img src="tecnologias/linux.png"></img>
+	<img src="tecnologias/salesforce.png"></img>
 </div>
+
+
 
 
 

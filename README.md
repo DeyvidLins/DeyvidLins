@@ -17,23 +17,23 @@ Graduado em Análise e desenvolvimento de sistemas e especialista em pós gradua
 
 
 <div style="display: inline_block"><br>
-    <img src="linguagens/c-sharp.png"></img> 
-    <img src="linguagens/css-3.png"></img>
-	<img src="linguagens/html-5.png"></img>
-	<img src="linguagens/java.png"></img>
-	<img src="linguagens/js.png"></img>
-	<img src="linguagens/mysql.png"></img>
-	<img src="linguagens/python.png"></img>
-	<img src="linguagens/react.png"></img>
-	<img src="linguagens/sql-server.png"></img>
-	<img src="tecnologias/coding.png"></img>
-	<img src="tecnologias/branches.png"></img>
-	<img src="tecnologias/gitlab.png"></img>
-	<img src="tecnologias/docker.png"></img>
-	<img src="tecnologias/kubernetes.png"></img>	
-	<img src="tecnologias/google-cloud-logo-5.png"></img>
-	<img src="tecnologias/linux.png"></img>
-	<img src="tecnologias/salesforce.png"></img>
+    <img src="linguagens/c-sharp.png&ensp;"></img> 
+    <img src="linguagens/css-3.png&ensp;"></img>
+	<img src="linguagens/html-5.png&ensp;"></img>
+	<img src="linguagens/java.png&ensp;"></img>
+	<img src="linguagens/js.png&ensp;"></img>
+	<img src="linguagens/mysql.png&ensp;"></img>
+	<img src="linguagens/python.png&ensp;"></img>
+	<img src="linguagens/react.png&ensp;"></img>
+	<img src="linguagens/sql-server.png&ensp;"></img>
+	<img src="tecnologias/coding.png&ensp;"></img>
+	<img src="tecnologias/branches.png&ensp;"></img>
+	<img src="tecnologias/gitlab.png&ensp;"></img>
+	<img src="tecnologias/docker.png&ensp;"></img>
+	<img src="tecnologias/kubernetes.png&ensp;"></img>	
+	<img src="tecnologias/google-cloud-logo-5.png&ensp;"></img>
+	<img src="tecnologias/linux.png&ensp;"></img>
+	<img src="tecnologias/salesforce.png&ensp;"></img>
 </div>
 
 

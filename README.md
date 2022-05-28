@@ -10,7 +10,7 @@ Graduado em Análise e desenvolvimento de sistemas e especialista em pós gradua
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeyvidLins&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-  <img src="kakashi sensei.gif" width="180" height="180"></img>
+ ![kakashi sensei](C:\Users\Deyvid\Desktop\Nova pasta\kakashi sensei.gif)
 
 
 
